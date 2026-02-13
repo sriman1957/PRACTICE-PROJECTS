@@ -5,6 +5,7 @@ import (
 	"math/rand"
 	"os"
 	"time"
+
 )
 
 func getRandomNumber() int {
@@ -44,5 +45,4 @@ func main() {
 			break
 		}
 	}
-
 }
